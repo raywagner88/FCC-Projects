@@ -2,6 +2,10 @@ body {
   background-color: #006400;
 }
 
+h2 {
+  color: #fff;
+}
+
 li {
   list-style: none;
 }
