@@ -14,3 +14,7 @@ li a {
   text-decoration: none;
   color: #fff;
 }
+
+li a:hover {
+  color: #d3d3d3;
+}
